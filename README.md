@@ -1,6 +1,6 @@
 # Resources to prepare.
 - Tools: VMware Workstation Pro (Version 15).
-- File ISO: windows server 2022, windows 10
+- File ISO: windows server 2022, windows 10.
 
 # Parameters.
 | Name         | OS                | IP          | Subnet mask   | Default Gateway | DNS Server    |
