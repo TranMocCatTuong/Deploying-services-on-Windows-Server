@@ -24,4 +24,7 @@
 10. Windows Server Update Services (WSUS).
 11. 2FA.
 
+GIT COMMIT 8/5
+
+
 
