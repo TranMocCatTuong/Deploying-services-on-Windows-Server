@@ -27,7 +27,9 @@
 # Create a new virtual machine
 1. Select **File** > **New Virtual Machine Wizard**
 
+  ![ Image 1. ](/img/1_1.png)
 
+2.
 
 
 
