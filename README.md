@@ -31,7 +31,19 @@
 
 2.
 
+  ![ Image 2. ](/img/1_2.png)
 
+3. e
+
+  ![ Image 3. ](/img/1_3.png)
+
+4. e
+
+  ![ Image 4. ](/img/1_4.png)
+
+5. e
+
+  ![ Image 5. ](/img/1_5.png)
 
 
 
