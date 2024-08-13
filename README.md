@@ -24,7 +24,21 @@
 10. Windows Server Update Services (WSUS).
 11. 2FA.
 
-GIT COMMIT 8/5
+# Create a new virtual machine
+1. Select **File** > **New Virtual Machine Wizard**
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
