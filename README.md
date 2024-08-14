@@ -29,15 +29,15 @@
 
   ![ Image 1. ](/img/1_1.png)
 
-2.
+2. Click **Next**
 
   ![ Image 2. ](/img/1_2.png)
 
-3. e
+3. Continue to select **Next**
 
   ![ Image 3. ](/img/1_3.png)
 
-4. e
+4. Select **Install the operating system later**, then click **Next**.
 
   ![ Image 4. ](/img/1_4.png)
 
@@ -45,12 +45,45 @@
 
   ![ Image 5. ](/img/1_5.png)
 
+6. e
 
+  ![ Image 6. ](/img/1_6.png)
 
+7. e
 
+  ![ Image 7. ](/img/1_7.png)
 
+8. e
 
+  ![ Image 8. ](/img/1_8.png)
 
+9. e
+
+  ![ Image 9. ](/img/1_9.png)
+
+10. e
+
+  ![ Image 10. ](/img/1_10.png)
+
+11. e
+
+  ![ Image 11. ](/img/1_11.png)
+
+12. e
+
+  ![ Image 12. ](/img/1_12.png)
+
+13. e
+
+  ![ Image 13. ](/img/1_13.png)
+
+14. e
+
+  ![ Image 14. ](/img/1_14.png)
+
+15. e
+
+  ![ Image 15. ](/img/1_15.png)
 
  
 
