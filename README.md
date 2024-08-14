@@ -41,7 +41,7 @@
 
   ![ Image 4. ](/img/1_4.png)
 
-5. [1] Select **Guest Operating System** and **Version**, [2] click **Next**.
+5. [1] Select **Guest Operating System** and [2] **Version**, [2] click **Next**.
 
   ![ Image 5. ](/img/1_5.png)
 
