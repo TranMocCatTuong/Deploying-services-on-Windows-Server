@@ -24,9 +24,12 @@
 10. Windows Server Update Services (WSUS).
 11. 2FA.
 12. 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
-# Create a new virtual machine
+
+# Create a new virtual machine.
+
+[How to create new virtual machine?](docs/Create_new_virtual_machine.md)
+
 1. [1] Select **File** > [2] **New Virtual Machine Wizard**.
 
   ![ Image 1. ](/img/1_1.png)
