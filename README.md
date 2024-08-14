@@ -25,15 +25,15 @@
 11. 2FA.
 
 # Create a new virtual machine
-1. Select **File** > **New Virtual Machine Wizard**
+1. [1] Select **File** > [2] **New Virtual Machine Wizard**.
 
   ![ Image 1. ](/img/1_1.png)
 
-2. Click **Next**
+2. Click **Next**.
 
   ![ Image 2. ](/img/1_2.png)
 
-3. Continue to select **Next**
+3. Continue to select **Next**.
 
   ![ Image 3. ](/img/1_3.png)
 
