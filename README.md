@@ -23,6 +23,8 @@
 9. Windows Deployment Services (WDS).
 10. Windows Server Update Services (WSUS).
 11. 2FA.
+12. 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 # Create a new virtual machine
 1. [1] Select **File** > [2] **New Virtual Machine Wizard**.
