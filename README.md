@@ -73,11 +73,11 @@
 
   ![ Image 12. ](/img/1_12.png)
 
-13. e
+13. [1] Select a Disk, [2] click **Next**.
 
   ![ Image 13. ](/img/1_13.png)
 
-14. e
+14. [1] Specify Disk capacity, [2] then click **Next**.
 
   ![ Image 14. ](/img/1_14.png)
 
