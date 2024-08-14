@@ -30,7 +30,13 @@
 
 [How to create new virtual machine?](docs/Create_new_virtual_machine.md)
 
-
+| Name         | Memory                | Processors          | Hard Disk   | Network Adapter | CD/DVD    |
+|:--------------:|:-------------------:|:-------------:|:---------------:|:-----------------:|:---------------:|
+| WS2K22-DC01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1, NAT | SATA |
+| WS2K22-SRV01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
+| WS2K22-SRV02  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
+| WIN10-CL01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
+| WIN10-CL02  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
 
  
 
