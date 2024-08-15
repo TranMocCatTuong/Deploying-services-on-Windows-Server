@@ -2,15 +2,6 @@
 - Tools: VMware Workstation Pro (Version 15).
 - File ISO: windows server 2022, windows 10.
 
-# Parameters.
-| Name         | OS                | IP          | Subnet mask   | Default Gateway | DNS Server    |
-|:--------------:|:-------------------:|:-------------:|:---------------:|:-----------------:|:---------------:|
-| WS2K22-DC01  | Windows server 2022 | 192.168.1.2 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
-| WS2K22-SRV01  | Windows server 2022 | 192.168.1.3 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
-| WS2K22-SRV02  | Windows server 2022 | 192.168.1.4 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
-| WIN10-CL01  | Windows 10 | 192.168.1.16 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
-| WIN10-CL02  | Windows 10 | 192.168.1.17 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
-
 # Services deployed.
 1. Active Directory Domain Services (AD DS)
 2. Domain Name System (DNS).
@@ -25,19 +16,31 @@
 11. 2FA.
 
 
-# Create new virtual machines..
+# Create new virtual machines.
 
 [How to create new virtual machine?](docs/Create_new_virtual_machine.md)
 
-| Name         | Memory                | Processors          | Hard Disk   | Network Adapter | CD/DVD    |
-|:--------------:|:-------------------:|:-------------:|:---------------:|:-----------------:|:---------------:|
-| WS2K22-DC01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1, NAT | SATA |
-| WS2K22-SRV01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
-| WS2K22-SRV02  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
-| WIN10-CL01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
-| WIN10-CL02  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA |
+| Name         | Memory                | Processors          | Hard Disk   | Network Adapter | CD/DVD    | OS                |
+|:--------------:|:-------------------:|:-------------:|:---------------:|:-----------------:|:---------------:|:-------------------:|
+| WS2K22-DC01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1, NAT | SATA | Windows server 2022 |
+| WS2K22-SRV01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA | Windows server 2022 |
+| WS2K22-SRV02  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA | Windows server 2022 |
+| WIN10-CL01  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA | Windows 10 |
+| WIN10-CL02  | 4 GB | 2 | 60 GB (NVMe) | VMnet1 | SATA | Windows 10 |
 
+ # Network configuration for virtual machines.
+
+ [How to configure network?](docs/Create_new_virtual_machine.md)
  
+| Name         | IP          | Subnet mask   | Default Gateway | DNS Server    |
+|:--------------:|:-------------:|:---------------:|:-----------------:|:---------------:|
+| WS2K22-DC01   | 192.168.1.2 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
+| WS2K22-SRV01  | 192.168.1.3 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
+| WS2K22-SRV02  | 192.168.1.4 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
+| WIN10-CL01  | 192.168.1.16 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
+| WIN10-CL02  | 192.168.1.17 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
+
+
 
 
 
