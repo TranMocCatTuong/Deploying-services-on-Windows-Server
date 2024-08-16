@@ -63,7 +63,9 @@ AD DS supports features such as security certificates, Single Sign-On (SSO), LDA
 
 For Incident Response (IR) and cybersecurity professionals, understanding AD DS is crucial because any cyberattack will impact Active Directory. Knowing what to monitor and how to address attacks is essential for effective response and mitigation.
 
-[How to Create an Active Directory Domain With Windows Server 2022? ](docs/ADDS.md)
+[How to create an Active Directory Domain With Windows Server 2022? ](docs/ADDS.md)
+
+[How to create Group? ](docs/Create_Gr.md)
 
 ### User Permissions by Department.
 
