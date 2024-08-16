@@ -52,6 +52,8 @@ This repository is a report documenting my journey of researching Windows Server
 
 ## 1. Active Directory Domain Services (AD DS)
 
+[How to Create an Active Directory Domain With Windows Server 2022? ](docs/ADDS.md)
+
 ### User Permissions by Department.
 
 | **Department**        | **User Group**                | **Permissions**                                                                          | **Description**                                                   |
