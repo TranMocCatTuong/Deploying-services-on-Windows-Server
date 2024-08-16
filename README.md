@@ -3,17 +3,17 @@
 - File ISO: windows server 2022, windows 10.
 
 # Services deployed.
-1. Active Directory Domain Services (AD DS)
-2. Domain Name System (DNS).
-3. Dynamic Host Configuration Protocol (DHCP).
-4. File and Storage Services.
-5. Hyper-V.
-6. Networking Services (VPN, Routing, và Remote Access).
-7. Print and Document Services.
-8. Web Services (IIS).
-9. Windows Deployment Services (WDS).
-10. Windows Server Update Services (WSUS).
-11. 2FA.
+[Go to Real Cool Heading section](###-1.-Active-Directory-Domain-Services-(AD-DS))
+### 2. Domain Name System (DNS).
+### 3. Dynamic Host Configuration Protocol (DHCP).
+### 4. File and Storage Services.
+### 5. Hyper-V.
+### 6. Networking Services (VPN, Routing, và Remote Access).
+### 7. Print and Document Services.
+### 8. Web Services (IIS).
+### 9. Windows Deployment Services (WDS).
+### 10. Windows Server Update Services (WSUS).
+### 11. 2FA.
 
 
 # Create new virtual machines.
@@ -42,7 +42,7 @@
 | WIN10-CL01  | 192.168.1.16 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
 | WIN10-CL02  | 192.168.1.17 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
 
-
+### 1. Active Directory Domain Services (AD DS)
 
 
 
