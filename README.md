@@ -1,6 +1,6 @@
 # Preface
 
-
+This repository is a report documenting my journey of researching Windows Server. My goal is to create a comprehensive guide to assist readers who may be encountering difficulties in learning about Windows Server. Additionally, this repository will serve as a testament to my skills, providing potential employers with a clear assessment of my capabilities.
 
 # Resources to prepare.
 - Tools: VMware Workstation Pro (Version 15).
