@@ -2,7 +2,12 @@
 
 This repository is a report documenting my journey of researching Windows Server. My goal is to create a comprehensive guide to assist readers who may be encountering difficulties in learning about Windows Server. Additionally, this repository will serve as a testament to my skills, providing potential employers with a clear assessment of my capabilities.
 
-# Resources to prepare.
+# Commitment Statement
+
+I hereby declare that this report is my own work, created through my own research and analysis. The content of this document is a result of my independent study, and all sources used are properly cited.
+
+# Required Preparations.
+
 - Tools: VMware Workstation Pro (Version 15).
 - File ISO: windows server 2022, windows 10.
 
