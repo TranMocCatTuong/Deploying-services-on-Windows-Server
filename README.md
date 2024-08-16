@@ -60,11 +60,11 @@ This repository is a report documenting my journey of researching Windows Server
 
   ![ Image 2. ](/img/3_2.png)
 
-3. Click **Next**.
+3. Advance by clicking **Next**.
 
   ![ Image 3. ](/img/3_3.png)
 
-4. Click **Next**.
+4. Continue by clicking **Next**.
 
   ![ Image 4. ](/img/3_4.png)
 
@@ -84,7 +84,7 @@ This repository is a report documenting my journey of researching Windows Server
 
   ![ Image 8. ](/img/3_8.png)
 
-9. Click **Next**.
+9. Continue by clicking **Next**.
 
   ![ Image 9. ](/img/3_9.png)
 
@@ -104,34 +104,34 @@ This repository is a report documenting my journey of researching Windows Server
     
   ![ Image 13. ](/img/3_13.png)
 
-15. Double-click **Promote this server to a domain controller**.
+14. Double-click **Promote this server to a domain controller**.
 
   ![ Image 14. ](/img/3_14.png)
 
-15. Check **Add a new forest**, then set the root domain name. Click **Next**.
+15. [1] Check **Add a new forest**, [2] then set the root domain name. [3] Click **Next**.
 
   ![ Image 15. ](/img/3_15.png)
 
-16. 
+16. [1] Set a new **Password**, [2] then click **Next**.
 
   ![ Image 16. ](/img/3_16.png)
 
-17. 
+17. Click **Next**.
 
   ![ Image 17. ](/img/3_17.png)
 
-18. 
+18. Proceed by selecting **Next**.
 
   ![ Image 18. ](/img/3_18.png)
 
-19. 
+19. Continue by clicking **Next**.
 
   ![ Image 19. ](/img/3_19.png)
 
-20. 
+20. Advance by clicking **Next**.
 
   ![ Image 20. ](/img/3_20.png)
 
-21. 
+21. Click **Install**, and once the installation is complete, the system will automatically restart.
 
   ![ Image 21. ](/img/3_21.png)
