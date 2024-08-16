@@ -48,5 +48,90 @@
 
 ## 1. Active Directory Domain Services (AD DS)
 
+1. 
 
+  ![ Image 1. ](/img/3_1.png)
 
+2. 
+
+  ![ Image 2. ](/img/3_2.png)
+
+3. 
+
+  ![ Image 3. ](/img/3_3.png)
+
+4. 
+
+  ![ Image 4. ](/img/3_4.png)
+
+5. 
+
+  ![ Image 5. ](/img/3_5.png)
+
+6. 
+
+  ![ Image 6. ](/img/3_6.png)
+
+7. 
+
+  ![ Image 7. ](/img/3_7.png)
+
+8. 
+
+  ![ Image 3. ](/img/3_3.png)
+
+3. 
+
+  ![ Image 8. ](/img/3_8.png)
+
+9. 
+
+  ![ Image 9. ](/img/3_9.png)
+
+10. 
+
+  ![ Image 10. ](/img/3_10.png)
+
+11. 
+
+  ![ Image 11. ](/img/3_11.png)
+
+12. 
+
+  ![ Image 12. ](/img/3_12.png)
+
+13. 
+
+  ![ Image 13. ](/img/3_13.png)
+
+14. 
+
+  ![ Image 14. ](/img/3_14.png)
+
+15. 
+
+  ![ Image 15. ](/img/3_15.png)
+
+16. 
+
+  ![ Image 16. ](/img/3_16.png)
+
+17. 
+
+  ![ Image 17. ](/img/3_17.png)
+
+18. 
+
+  ![ Image 18. ](/img/3_18.png)
+
+19. 
+
+  ![ Image 19. ](/img/3_19.png)
+
+20. 
+
+  ![ Image 20. ](/img/3_20.png)
+
+21. 
+
+  ![ Image 21. ](/img/3_21.png)
