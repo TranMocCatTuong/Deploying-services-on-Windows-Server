@@ -52,67 +52,63 @@ This repository is a report documenting my journey of researching Windows Server
 
 ## 1. Active Directory Domain Services (AD DS)
 
-1. 
+1. Open **Server Manager**, [1] On the toolbar, select **Manage**. [2] Choose **Add Roles and Features**.
 
   ![ Image 1. ](/img/3_1.png)
 
-2. 
+2. Click **Next**.
 
   ![ Image 2. ](/img/3_2.png)
 
-3. 
+3. Click **Next**.
 
   ![ Image 3. ](/img/3_3.png)
 
-4. 
+4. Click **Next**.
 
   ![ Image 4. ](/img/3_4.png)
 
-5. 
+5. In the **Roles** list, check the box for **Active Directory Domain Services**.
 
   ![ Image 5. ](/img/3_5.png)
 
-6. 
+6. Click **Add Features**.
 
   ![ Image 6. ](/img/3_6.png)
 
-7. 
+7. Continue press **Next**.
 
   ![ Image 7. ](/img/3_7.png)
 
-8. 
-
-  ![ Image 3. ](/img/3_3.png)
-
-3. 
+8. Click **Next**.
 
   ![ Image 8. ](/img/3_8.png)
 
-9. 
+9. Click **Next**.
 
   ![ Image 9. ](/img/3_9.png)
 
-10. 
+10. Check the box Restart the destination server automatically if required.
 
   ![ Image 10. ](/img/3_10.png)
 
-11. 
+11. Click **Yes**.
 
   ![ Image 11. ](/img/3_11.png)
 
-12. 
+12. Click **Install** to finish and **Restart** Windows Server.
 
   ![ Image 12. ](/img/3_12.png)
 
-13. 
-
+13. When restarting the Windows Server, click on the icon as shown in the image.
+    
   ![ Image 13. ](/img/3_13.png)
 
-14. 
+15. Double-click **Promote this server to a domain controller**.
 
   ![ Image 14. ](/img/3_14.png)
 
-15. 
+15. Check **Add a new forest**, then set the root domain name. Click **Next**.
 
   ![ Image 15. ](/img/3_15.png)
 
