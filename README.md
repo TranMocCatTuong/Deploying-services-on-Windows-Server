@@ -52,6 +52,27 @@ This repository is a report documenting my journey of researching Windows Server
 
 ## 1. Active Directory Domain Services (AD DS)
 
+### User Permissions by Department.
+
+| **Department**        | **User Group**                | **Permissions**                                                                          | **Description**                                                   |
+|-----------------------|------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| **IT Department**     | IT_Admins                     | - Full Control<br>- Manage Active Directory<br>- Deploy and manage network systems       | Administer the network, deploy, and maintain IT infrastructure    |
+|                       | IT_Support                    | - Read/Write<br>- Install software<br>- Manage user accounts                             | Provide user support, install software, and manage basic accounts |
+| **Finance Department**| Finance_Managers              | - Full Control in Finance folder<br>- Access to accounting systems                       | Manage financial operations, access accounting systems and reports|
+|                       | Finance_Staff                 | - Read/Write in Finance folder<br>- Limited access to accounting systems                 | Perform daily financial tasks, such as data entry and reporting   |
+| **HR Department**     | HR_Managers                   | - Full Control in HR folder<br>- Manage employee records                                 | Manage HR information, recruitment, training, and employee development |
+|                       | HR_Staff                      | - Read/Write in HR folder<br>- Limited access to employee records                        | Support daily HR activities, manage employee records              |
+| **Sales Department**  | Sales_Managers                | - Full Control in Sales folder<br>- Access to CRM systems                                | Manage sales teams, coordinate sales strategies                   |
+|                       | Sales_Staff                   | - Read/Write in Sales folder<br>- Limited access to CRM systems                          | Perform sales activities, data entry, and manage customer information |
+| **Marketing Department**| Marketing_Managers          | - Full Control in Marketing folder<br>- Access to advertising tools                      | Manage marketing campaigns and advertising                        |
+|                       | Marketing_Staff               | - Read/Write in Marketing folder<br>- Limited access to advertising tools                | Execute daily marketing tasks, prepare content, and manage campaigns |
+
+### Notes:
+- **Full Control:** Users have full management rights over files, folders, or systems.
+- **Read/Write:** Users can read and write data but cannot delete or change permissions.
+- **Limited access:** Users only have access to certain parts of the system or data, not the entire system.
+
+
 1. Open **Server Manager**, [1] On the toolbar select **Manage**. [2] Choose **Add Roles and Features**.
 
   ![ Image 1. ](/img/3_1.png)
