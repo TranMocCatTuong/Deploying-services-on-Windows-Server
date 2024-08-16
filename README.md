@@ -3,7 +3,7 @@
 - File ISO: windows server 2022, windows 10.
 
 # Services deployed.
-[Go to Real Cool Heading section](###-1.-Active-Directory-Domain-Services-(AD-DS))
+[Go to Real Cool Heading section](https://github.com/TranMocCatTuong/Deploying-services-on-Windows-Server/blob/main/README.md#1-active-directory-domain-services-ad-ds)
 ### 2. Domain Name System (DNS).
 ### 3. Dynamic Host Configuration Protocol (DHCP).
 ### 4. File and Storage Services.
