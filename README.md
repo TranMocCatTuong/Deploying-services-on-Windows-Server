@@ -52,7 +52,7 @@ This repository is a report documenting my journey of researching Windows Server
 
 ## 1. Active Directory Domain Services (AD DS)
 
-1. Open **Server Manager**, [1] On the toolbar, select **Manage**. [2] Choose **Add Roles and Features**.
+1. Open **Server Manager**, [1] On the toolbar select **Manage**. [2] Choose **Add Roles and Features**.
 
   ![ Image 1. ](/img/3_1.png)
 
