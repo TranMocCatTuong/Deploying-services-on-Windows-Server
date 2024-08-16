@@ -3,7 +3,7 @@
 - File ISO: windows server 2022, windows 10.
 
 # Services deployed.
-[Go to Real Cool Heading section](https://github.com/TranMocCatTuong/Deploying-services-on-Windows-Server/blob/main/README.md#1-active-directory-domain-services-ad-ds)
+### [1. Active Directory Domain Services (AD DS)](https://github.com/TranMocCatTuong/Deploying-services-on-Windows-Server/blob/main/README.md#1-active-directory-domain-services-ad-ds)
 ### 2. Domain Name System (DNS).
 ### 3. Dynamic Host Configuration Protocol (DHCP).
 ### 4. File and Storage Services.
@@ -42,7 +42,7 @@
 | WIN10-CL01  | 192.168.1.16 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
 | WIN10-CL02  | 192.168.1.17 | 255.255.255.0 | 192.168.1.1 | 192.168.1.2 |
 
-### 1. Active Directory Domain Services (AD DS)
+## 1. Active Directory Domain Services (AD DS)
 
 
 
