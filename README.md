@@ -88,7 +88,7 @@ This repository is a report documenting my journey of researching Windows Server
 
   ![ Image 9. ](/img/3_9.png)
 
-10. Check the box Restart the destination server automatically if required.
+10. Check the box **Restart the destination server automatically if required**.
 
   ![ Image 10. ](/img/3_10.png)
 
