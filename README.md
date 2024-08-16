@@ -30,7 +30,9 @@
 
  # Network configuration for virtual machines.
 
- [How to configure network?](docs/Create_new_virtual_machine.md)
+ [How to configure network?](docs/Conf_Network.md)
+ > [!NOTE]
+> If you've configured the network for the virtual machines but still can't connect them to each other, try disabling the firewall.
  
 | Name         | IP          | Subnet mask   | Default Gateway | DNS Server    |
 |:--------------:|:-------------:|:---------------:|:-----------------:|:---------------:|
