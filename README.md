@@ -57,6 +57,12 @@ I hereby declare that this report is my own work, created through my own researc
 
 ## 1. Active Directory Domain Services (AD DS)
 
+Active Directory Domain Services (AD DS) are fundamental components of Active Directory that handle the management of users and computers, allowing system administrators to structure data into logical hierarchies.
+
+AD DS supports features such as security certificates, Single Sign-On (SSO), LDAP, and rights management.
+
+For Incident Response (IR) and cybersecurity professionals, understanding AD DS is crucial because any cyberattack will impact Active Directory. Knowing what to monitor and how to address attacks is essential for effective response and mitigation.
+
 [How to Create an Active Directory Domain With Windows Server 2022? ](docs/ADDS.md)
 
 ### User Permissions by Department.
@@ -74,7 +80,4 @@ I hereby declare that this report is my own work, created through my own researc
 | **Marketing Department**| Marketing_Managers          | - Full Control in Marketing folder<br>- Access to advertising tools                      | Manage marketing campaigns and advertising                        |
 |                       | Marketing_Staff               | - Read/Write in Marketing folder<br>- Limited access to advertising tools                | Execute daily marketing tasks, prepare content, and manage campaigns |
 
-### Notes:
-- **Full Control:** Users have full management rights over files, folders, or systems.
-- **Read/Write:** Users can read and write data but cannot delete or change permissions.
-- **Limited access:** Users only have access to certain parts of the system or data, not the entire system.
+
