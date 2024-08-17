@@ -1,4 +1,6 @@
-1. 
+# How to Create Your Group Policy Object?
+
+1. Open **Server Manager**
 
   ![ Image 1. ](/img/5_1.png)
 
