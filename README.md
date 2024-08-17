@@ -67,6 +67,8 @@ For Incident Response (IR) and cybersecurity professionals, understanding AD DS 
 
 [How to create Group? ](docs/Create_Gr.md)
 
+[How to Create Your Group Policy Object? ](docs/C_GPO.md)
+
 ### User Permissions by Department.
 
 | **Department**        | **User Group**                | **Permissions**                                                                          | **Description**                                                   |
