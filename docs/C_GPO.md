@@ -68,7 +68,7 @@
 
 ![ Image 17. ](/img/5_17.png)
 
-18. [1] Configure **Full Control** permissions according to the **User Permissions by Department** table. [2] Then click **OK** to finish.
+18. [1] Configure **Full Control** permissions according to the [**User Permissions by Department**](https://github.com/TranMocCatTuong/Deploying-services-on-Windows-Server?tab=readme-ov-file#user-permissions-by-department)  table. [2] Then click **OK** to finish.
 
 ![ Image 18. ](/img/5_18.png)
 
